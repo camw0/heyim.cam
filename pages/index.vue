@@ -38,10 +38,16 @@
       </p>
     </div>
     <hr class="border-2 border-indigo-900">
-    <div class="flex grid grid-cols-3 gap-4 m-10 justify-center">
-      <Box image="https://github.com/cmrxnn/heyim.cam/blob/develop/static/img_1.jpg" />
-      <Box image="https://github.com/cmrxnn/heyim.cam/blob/develop/static/img_2.jpg" />
-      <Box image="https://github.com/cmrxnn/heyim.cam/blob/develop/static/img_3.jpg" />
+    <div class="flex grid grid-cols-3 gap-4 p-10 justify-center">
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
+      <Box />
     </div>
   </div>
 </template>
