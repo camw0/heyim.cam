@@ -2,19 +2,19 @@
   <div class="h-full bg-black">
     <div class="flex max-h-1/12 bg-indigo-700 text-3xl flex text-white items-center justify-center py-4">
       <a href="mailto:contact@heyim.cam">
-        <fa :icon="['fas', 'at']" class="px-4 w-8 h-8" />
+        <fa :icon="['fas', 'at']" class="px-4 w-8 h-8 inline-flex" />
       </a>
       <a href="https://discord.gg/qttGR4Z5Pk">
-        <fa :icon="['fab', 'discord']" class="px-4 w-8 h-8" />
+        <fa :icon="['fab', 'discord']" class="px-4 w-8 h-8 inline-flex" />
       </a>
       <a href="https://github.com/cmrxnn">
-        <fa :icon="['fab', 'github']" class="px-4 w-8 h-8" />
+        <fa :icon="['fab', 'github']" class="px-4 w-8 h-8 inline-flex" />
       </a>
       <a href="https://steamcommunity.com/id/camerxnwhite">
-        <fa :icon="['fab', 'steam']" class="px-4 w-8 h-8" />
+        <fa :icon="['fab', 'steam']" class="px-4 w-8 h-8 inline-flex" />
       </a>
       <a href="https://open.spotify.com/user/7fzw5k6pmfjif9r0vsiua70gw?si=aa0f0560451745e9">
-        <fa :icon="['fab', 'spotify']" class="px-4 w-8 h-8" />
+        <fa :icon="['fab', 'spotify']" class="px-4 w-8 h-8 inline-flex" />
       </a>
       <div class="px-8">
         &#8212;
@@ -43,12 +43,12 @@
       <p class="text-2xl text-gray-600 font-semibold my-3">
         Want me to make your software plan come to life? <a href="mailto:contact@heyim.cam" class="text-gray-500">Get in touch.</a>
       </p>
-      <p class="text-2xl text-gray-700 font-semibold my-3">
+      <p class="flex text-2xl text-gray-700 font-semibold my-3">
         You can find me on
         <a href="https://github.com/cmrxnn">
-          <fa :icon="['fab', 'github']" class="w-4 h-4" />
-        </a>, <a href="https://discord.gg/qttGR4Z5Pk"><fa :icon="['fab', 'discord']" class="w-4 h-4" /></a>
-        and <a href="mailto:contact@heyim.cam"><fa :icon="['fas', 'at']" class="w-4 h-4" /></a>.
+          <fa :icon="['fab', 'github']" class="w-4 h-4 inline-flex" />
+        </a>, <a href="https://discord.gg/qttGR4Z5Pk"><fa :icon="['fab', 'discord']" class="w-4 h-4 inline-flex" /></a>
+        and <a href="mailto:contact@heyim.cam"><fa :icon="['fas', 'at']" class="w-4 h-4 inline-flex" /></a>.
       </p>
     </div>
     <hr class="border-2 border-indigo-900">
