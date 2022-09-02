@@ -3,7 +3,7 @@
 <template>
   <div>
     <div class="bg-indigo-900 rounded-t p-2 text-white font-semibold border-b border-black">
-      <fa :icon="['fas', 'camera']" class="mx-1 w-4 h-4" /> Samsung S20, f/1.8, 1/1.76" sensor
+      <fa :icon="['fas', 'camera']" class="mx-1 w-4 h-4inline-flex mr-1" /> Samsung S20, f/1.8, 1/1.76" sensor
     </div>
     <img :src="image ?? 'https://nannymatters.org/wp-content/uploads/2021/08/no-image.jpg'" class="rounded-b">
   </div>
